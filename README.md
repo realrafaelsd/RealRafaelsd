@@ -109,7 +109,25 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=realrafaelsd&theme=tokyonight&hide_border=true"
+  alt="Sequência de contribuições de Rafael Dias"
 />
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação da cobrinha percorrendo as contribuições do GitHub"
+    src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
