@@ -28,3 +28,4 @@ jobs:
           UTC_OFFSET: -3
           EXCLUDE: ""
           AUTO_PUSH: true
+          THEME: "github_dark"

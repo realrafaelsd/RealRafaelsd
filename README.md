@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com formação técnica em **Informática pelo Instituto Federal de São Paulo (IFSP)**.
 
@@ -22,7 +22,7 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### 💻 Backend
 
@@ -92,18 +92,8 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/0-profile-details.svg"
-  alt="Detalhes do perfil"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/2-most-commit-language.svg"
-  alt="Linguagens mais utilizadas"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/3-stats.svg"
-  alt="Estatísticas do GitHub"
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  alt="Repositórios por linguagem"
 />
 
 </div>
