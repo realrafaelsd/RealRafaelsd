@@ -83,6 +83,8 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 
 **Técnico em Informática**
 
+`2022 — 2025`
+
 ---
 
 ## 📊 GitHub Stats
@@ -90,13 +92,18 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=realrafaelsd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/main/profile-summary-card-output/0-profile-details.svg"
+  alt="Detalhes do perfil"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrafaelsd&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/main/profile-summary-card-output/2-most-commit-language.svg"
+  alt="Linguagens mais utilizadas"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/main/profile-summary-card-output/3-stats.svg"
+  alt="Estatísticas do GitHub"
 />
 
 </div>
@@ -106,13 +113,6 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 ## 📈 Contribuições
 
 <div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=realrafaelsd&theme=tokyonight&hide_border=true"
-  alt="Sequência de contribuições de Rafael Dias"
-/>
-
-<br><br>
 
 <picture>
   <source
