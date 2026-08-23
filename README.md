@@ -92,17 +92,17 @@ Meu principal objetivo profissional é atuar como **Desenvolvedor Backend**, com
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/main/profile-summary-card-output/0-profile-details.svg"
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/0-profile-details.svg"
   alt="Detalhes do perfil"
 />
 
 <img
-  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/main/profile-summary-card-output/2-most-commit-language.svg"
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/2-most-commit-language.svg"
   alt="Linguagens mais utilizadas"
 />
 
 <img
-  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/main/profile-summary-card-output/3-stats.svg"
+  src="https://raw.githubusercontent.com/realrafaelsd/RealRafaelsd/master/profile-summary-card-output/3-stats.svg"
   alt="Estatísticas do GitHub"
 />
 

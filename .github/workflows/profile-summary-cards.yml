@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
+          BRANCH_NAME: "master"
           UTC_OFFSET: -3
           EXCLUDE: ""
           AUTO_PUSH: true
